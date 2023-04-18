@@ -1,3 +1,0 @@
-# Class 01 Notes
-
-Here are my notes about markdown...
